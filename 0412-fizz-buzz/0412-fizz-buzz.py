@@ -1,15 +1,14 @@
 class Solution:
     def fizzBuzz(self, n: int) -> List[str]:
         result = []
-        for i in range(n):
-            print(int((i+1) % 3))
-            if int((i+1) % 3) == 0 and int((i+1) % 5) == 0:
+        for i in range(1, n+1):
+            if i % 15 == 0:
                 result.append("FizzBuzz")
-            elif int((i+1) % 3) == 0:
+            elif i % 3 == 0:
                 result.append("Fizz")
-            elif int((i+1) % 5) == 0:
+            elif i % 5 == 0:
                 result.append("Buzz")
             else:
-                result.append(str(i+1))
-                
+                result.append(str(i))
+
         return result
