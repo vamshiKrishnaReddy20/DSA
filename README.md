@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
