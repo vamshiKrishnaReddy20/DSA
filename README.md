@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -32,4 +33,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
