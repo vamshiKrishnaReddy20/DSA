@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -45,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/vamshiKrishnaReddy20/DSA/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
